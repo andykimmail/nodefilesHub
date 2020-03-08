@@ -1,0 +1,19 @@
+{
+  "name": "nodefileshub",
+  "version": "12.14.1",
+  "description": "Simple web App",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andykimmail/nodefilesHub.git"
+  },
+  "author": "andy kim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andykimmail/nodefilesHub/issues"
+  },
+  "homepage": "https://github.com/andykimmail/nodefilesHub#readme"
+}
